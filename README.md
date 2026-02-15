@@ -1,4 +1,4 @@
-# Microsoft Online Error Lookup Tool
+#  Online Error Lookup Tool
 
 **This is a simple tool created fast...**
 
